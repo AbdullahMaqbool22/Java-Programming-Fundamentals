@@ -6,7 +6,6 @@ This repository contains fundamental Java programming files, covering essential 
 
 - [Getting Started](#getting-started)
 - [Topics Covered](#topics-covered)
-- [Files and Descriptions](#files-and-descriptions)
 - [Usage](#Usage)
 - [Contributing](#Contributions)
 - [License](#License)
